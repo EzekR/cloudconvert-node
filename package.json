@@ -16,7 +16,9 @@
   "dependencies": {
     "async": "^2.1.5",
     "pause-stream": "0.0.11",
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "socks5-http-client": "^1.0.3",
+    "socks5-https-client": "^1.2.1"
   },
   "devDependencies": {
     "jshint": "*",
